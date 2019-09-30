@@ -25,7 +25,7 @@ public class NumberOperations
 
    public int getValue()
    {
-      return 0; // placeholder return
+      return number; // placeholder return
    }
    
    /**
